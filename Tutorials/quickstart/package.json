@@ -18,6 +18,6 @@
     "@node-wot/binding-coap": "^0.8.7",
     "@node-wot/binding-http": "^0.8.7",
     "@node-wot/binding-mqtt": "^0.8.7",
-    "@node-wot/core": "^0.8.7"
+    "@node-wot/core": "^0.9.1"
   }
 }
